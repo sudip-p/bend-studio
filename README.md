@@ -1,6 +1,8 @@
 # bend-studio
 
-This is my take on the Bend Studio website. [Bend Studio](https://bendstudio.com) is a video game creator based on Bend, Oregon. I have created this website as part of a school assignment for the class [CSE 333, User Interface Development](https://xsrv.mm.cs.stonybrook.edu/ui/) at Stony Brook University, New York. 
+This is my take on the Bend Studio website. View [here](https://sudip-p.github.io/bend-studio/)
+
+[Bend Studio](https://bendstudio.com) is a video game creator based on Bend, Oregon. I have created this website as part of a school assignment for the class [CSE 333, User Interface Development](https://xsrv.mm.cs.stonybrook.edu/ui/) at Stony Brook University, New York. 
 
 ## Getting Started
 
