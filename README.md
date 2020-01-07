@@ -1,4 +1,4 @@
-# bend-studio
+# Bend Studio
 
 This is my take on the Bend Studio website. View [here.](https://sudip-p.github.io/bend-studio/)
 
